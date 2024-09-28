@@ -4,14 +4,13 @@
 	"spider": "https://raw.githubusercontent.com/lcys99/lcys99/refs/heads/main/陆城影视" ,
 	"壁纸" : "https://tuapi.eees.cc/api.php?category=fengjing&type=302" ,
     “标志”：“http://php.ini 540734621.xyz/logo/logo.php ”，
-	“生活”：[  {
-		    "姓名" : "①活着" ,
-            “类型”：0，
- 	        “url”：“./lib/kx 2024.txt ”，
-            “ua”：“okhttp/ 3.15 ”，
-            “玩家类型”：1，
-            "epg" : "http://diyp2.112114.xyz/?ch={name}&date={date}" ,
-     		“标志”：“http://diyp2.112114.xyz/logo/{name}.png”
+	“生活”：[      "name": "①live",
+            "type":0,
+ 	        "url": "./lib/kx2024.txt",
+            "ua": "okhttp/3.15",
+            "playerType": 1,
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    } ],
 
 	
